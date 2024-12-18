@@ -1,45 +1,42 @@
-# AtliQ-Excel-Report
-## Sales Report :
+# AtliQ-Sales & Finance-Report
+## Sales Report:
+Project Goal:
 
+1. Develop a Customer Performance Report
 
-- **Project objective:** 
+2. Perform an in-depth comparison between market performance and sales targets
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+Purpose of Sales Analysis: Enable businesses to track, assess, and improve their sales performance.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+Why Analyzing Sales Data Matters: Uncover sales trends and monitor key performance metrics (KPIs).
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+Role of Reports: Guide decisions on customer discount strategies, support negotiations, and pinpoint growth opportunities in high-potential markets.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+## Finance Report:
+Project Goal:
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+1. Generate Profit and Loss (P&L) statements by Fiscal Year & Monthly Periods
 
+2. Develop Profit and Loss (P&L) reports based on Markets
 
-## Finance Report :
+Purpose of Financial Analytics: Evaluate the company's financial health, aid in strategic decision-making, and enhance communication with key stakeholders.
 
-- **Project objective:** 
+Why Financial Data Analysis is Essential: Provide benchmarks against industry standards and historical data, serving as the basis for effective budgeting and forecasting.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+Role of Reports: Ensure alignment of financial strategies with company objectives, fostering stakeholder confidence in financial outlooks.
 
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+ 1) Mastery of the ETL process (Extract, Transform, Load).
+ 2) Expertise in generating date tables using Power Query.
+ 3) Capability to derive fiscal months and quarters.
+ 4) Skill in setting up data relationships using Power Pivot.
+ 5) Ability to integrate additional data into existing data models.
+ 6) Proficiency in using DAX to create calculated columns.
+
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+1) In-depth knowledge of Sales & Finance Reporting.
+2) Designing reports with a focus on the end-user experience.
+3) Fine-tuning report generation for enhanced efficiency.
+4) Developing a structured and systematic approach to report creation.
